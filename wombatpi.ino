@@ -6,13 +6,13 @@ Arduino UNO R4 Minima Version
 
 wombatpi.net
 
-Last Modified:  16-Jun-2024
+Last Modified:  27-Sep-2024
 
 
 ----------------------------------------------------------------------------
 */
 
-#define VERSION "16JUN24"
+#define VERSION "27SEP2024"
 
 #include "wombat.h"
 #include "wombat_analog.h"
